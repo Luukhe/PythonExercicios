@@ -1,2 +1,3 @@
 # PythonExercicios
-## Python programming exercises
+Python programming exercises for learning purposes.
+:smile:
